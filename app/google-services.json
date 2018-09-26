@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "365851049194",
+    "firebase_url": "https://trim-heaven-216912.firebaseio.com",
+    "project_id": "trim-heaven-216912",
+    "storage_bucket": "trim-heaven-216912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365851049194:android:5150c04b8e77ad62",
+        "android_client_info": {
+          "package_name": "healthkit.tarento.healthdataaggregator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365851049194-unmrgv7g1ut85jh6ih31t3s9om08vag7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "healthkit.tarento.healthdataaggregator",
+            "certificate_hash": "65ecf3c87cc500f29dfe884d8a1a459c86dc31ee"
+          }
+        },
+        {
+          "client_id": "365851049194-r5lmndh5al39mibos5m4p75j0ri4v45l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSx7CyKSIhZ2xzle58rKQDvhS2CXSpL_Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365851049194-r5lmndh5al39mibos5m4p75j0ri4v45l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

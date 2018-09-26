@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Health Tracker</string>
+    <string name="gender">Gender</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="notification_channel_id">health_channel_01</string>
+
+
+    <string-array name="gender_array">
+        <item>Female</item>
+        <item>Male</item>
+        <item>Rather not say</item>
+    </string-array>
+
+
+    <string-array name="height_array">
+        <item>160 cm</item>
+        <item>161 cm</item>
+        <item>162 cm</item>
+        <item>163 cm</item>
+        <item>164 cm</item>
+        <item>165 cm</item>
+        <item>166 cm</item>
+        <item>167 cm</item>
+        <item>168 cm</item>
+        <item>169 cm</item>
+        <item>170 cm</item>
+        <item>171 cm</item>
+        <item>172 cm</item>
+        <item>173 cm</item>
+        <item>174 cm</item>
+        <item>175 cm</item>
+        <item>176 cm</item>
+        <item>178 cm</item>
+        <item>179 cm</item>
+        <item>180 cm</item>
+    </string-array>
+
+    <string-array name="weight_array">
+        <item>60 kg</item>
+        <item>61 kg</item>
+        <item>62 kg</item>
+        <item>63 kg</item>
+        <item>64 kg</item>
+        <item>65 kg</item>
+        <item>66 kg</item>
+        <item>67 kg</item>
+        <item>68 kg</item>
+        <item>69 kg</item>
+        <item>70 kg</item>
+
+    </string-array>
+
+    <string-array name="mockdata_array">
+        <item>Average</item>
+        <item>Low HeartRate</item>
+        <item>High HeartRate</item>
+        <item>Current HeartRate</item>
+    </string-array>
+</resources>
